@@ -9,7 +9,7 @@ The dataset used for this analysis is `amazon0302.txt`
 After split is `smallamazon.csv`
 
 ## Algorithm Implementation
-All steps include in amazonnetworkx.ipynb
+All steps include in `amazonnetworkx.ipynb`
 
 
 
